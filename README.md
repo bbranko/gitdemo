@@ -1,3 +1,3 @@
 # Git Demo
 
-Kucamo Choose Your OWn adventure pricu
+Kucamo "Choose Your Own Adventure" pricu
